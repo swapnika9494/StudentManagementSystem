@@ -39,7 +39,3 @@ Student-Management-System/
 * Implement a **GUI interface** using Java Swing or JavaFX
 * Store student data in a **file or database** for persistence
 * Add **advanced search and sorting** options
-
-
-
-Do you want me to do that?
